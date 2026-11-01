@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e17,60:0c4a6e,100:38bdf8&height=230&section=header&text=PARAMETERIZED%208-BIT%20ALU&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=SystemVerilog%20RTL%20Design%20%2F%2F%20Digital%20VLSI%20%26%20ASIC&descSize=18&descColor=7dd3fc&descAlignY=60" alt="Parameterized 8-bit ALU banner" width="100%"/>
-
+<img src="P1B.jpeg" alt="Parameterized 8-bit ALU" width="800"/>
 **A synthesis-ready, parameterized Arithmetic Logic Unit with 10 operations, verified by simulation and synthesized with Yosys.**
 
 <br/>
