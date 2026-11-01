@@ -1,7 +1,10 @@
 <div align="center">
 
-<img src="P1B.jpeg" alt="Parameterized 8-bit ALU" width="800"/>
-**A synthesis-ready, parameterized Arithmetic Logic Unit with 10 operations, verified by simulation and synthesized with Yosys.**
+<img src="P1B.jpeg" alt="Parameterized 8-bit ALU poster" width="800"/>
+
+<img src="header.png" alt="Parameterized 8-bit ALU banner" width="100%"/>
+
+<b>A synthesis-ready, parameterized Arithmetic Logic Unit with 10 operations, verified by simulation and synthesized with Yosys.</b>
 
 <br/>
 
